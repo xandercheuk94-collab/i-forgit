@@ -160,3 +160,5 @@ public class Git {
         return existingPath.equals(filePath);
     }
 }
+
+//Xander was here this looks pretty good so far
